@@ -34,6 +34,7 @@ Got ideas to make SynonymExplorer even better? Fork the repo, make your changes,
 
 ## 📣 Credits
 https://docs.google.com/spreadsheets/d/1dbri_yOTeF6YUrGHKXEurtw-wtg_UuPNQVh9st_5wFM/edit?pli=1#gid=0
+
 Huge shoutout to the Gregmat team for the vocabulary data. And to all contributors who've helped make GRE-vocab-learner a resounding success!
 
 ---
