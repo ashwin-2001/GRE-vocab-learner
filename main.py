@@ -20,7 +20,7 @@ class SynonymExplorer(QMainWindow):
 
     def initUI(self):
         # Window settings
-        self.setWindowTitle("Synonym Explorer")
+        self.setWindowTitle("GRE-vocab-learner")
         self.setGeometry(100, 100, 800, 900)
         self.set_theme()
 
