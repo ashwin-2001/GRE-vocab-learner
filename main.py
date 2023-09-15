@@ -284,7 +284,7 @@ class SynonymExplorer(QMainWindow):
 
 
 app = QApplication(sys.argv)
-data = pd.read_csv('C:\\Users\\Ashwin\\Desktop\\LRSP\\final_updated_vocab_with_all_groups.csv')
+data = pd.read_csv('final_updated_vocab_with_all_groups.csv')
 
 # Allow only till synonym column is not null
 data = data[data['Synonyms'].notnull()].reset_index(drop=True)
