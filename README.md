@@ -9,6 +9,11 @@ Supercharge your GRE vocabulary preparation with `GRE-vocab-learner`! Built with
 - **Interactive Quizzes**: Challenge yourself, track your progress.
 - **Keyboard Navigation**: For the power users out there.
 
+## Looks
+![image](https://github.com/ashwin-2001/GRE-vocab-learner/assets/68816502/91a35578-51a9-4edf-83b5-92cf0165167e) ![image](https://github.com/ashwin-2001/GRE-vocab-learner/assets/68816502/0667b714-14f4-42dc-b56e-0a1e00ab7850)
+
+
+
 ## Quick Start:
 
 ```bash
