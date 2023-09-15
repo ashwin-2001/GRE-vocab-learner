@@ -12,9 +12,8 @@ Supercharge your GRE vocabulary preparation with `GRE-vocab-learner`! Built with
 ## Quick Start:
 
 ```bash
-git clone [repository-link]
+git clone https://github.com/ashwin-2001/GRE-vocab-learner.git
 pip install PyQt5 pandas
-# Load your vocab data (CSV: 'Word', 'Synonyms', 'Group ID')
 python main.py
 ```
 
